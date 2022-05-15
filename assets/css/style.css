@@ -1,5 +1,5 @@
 /*
-@File: Huruma Template Styles
+@File: Bolanle Addiction Treatment Center Template Styles
 
 * This file contains the styling for the actual template, this
 is the file you need to edit to change the look of the
@@ -40,7 +40,7 @@ This files table contents are outlined below>>>>>
 ** - Sidebar Widget Area CSS
 ** - Gallery Area CSS
 ** - Event Details Area CSS
-** - Faq Area CSS
+** - FAQs Area CSS
 ** - Login Area CSS
 ** - Sign Up CSS
 ** - Recover Area CSS
@@ -6709,7 +6709,7 @@ Events Details Area CSS
 }
 
 /*================================================
-Faq Area CSS
+FAQs Area CSS
 =================================================*/
 .faq-accordion-content {
   background-color: #ffffff;

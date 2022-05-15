@@ -1,5 +1,5 @@
 /*==============================================================*/
-// Huruma Contact Form  JS
+// Bolanle Addiction Treatment Center Contact Form  JS
 /*==============================================================*/
 (function ($) {
     "use strict"; // Start of use strict
