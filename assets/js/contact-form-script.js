@@ -11,7 +11,19 @@
         } else {
             // everything looks good!
             event.preventDefault();
-            submitForm();
+            // submitForm();
+            setTimeout(() => {
+                Swal.fire({
+                    icon: 'success',
+                    title: 'Your message has been sent, we will get back to you soon',
+                    timer: 1500
+                });
+                $("#name").val("");
+                $("#email").val("");
+                $("#msg_subject").val("");
+                $("#phone_number").val("");
+                $("#message").val("");
+            }, 1000);
         }
     });
 
